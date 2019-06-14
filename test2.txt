@@ -4,3 +4,4 @@ bad story
 develop test
 
 master 1
+develop 1
