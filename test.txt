@@ -3,3 +3,5 @@ test test test
 yes now master
 test how to use feature
 S
+
+today is a good day to die
