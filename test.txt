@@ -5,5 +5,5 @@ test how to use feature
 S
 
 today is a good day to die
-develop 1
+test hotfix
 develop 2
