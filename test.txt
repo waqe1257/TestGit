@@ -5,3 +5,4 @@ test how to use feature
 S
 
 today is a good day to die
+develop 1
